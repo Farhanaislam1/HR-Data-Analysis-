@@ -7,7 +7,8 @@ Turnover rates based on Education and Department
 Box plot displaying Monthly Income distribution across different department, segmented by Marital Status, to understand its impact on retention. 
 ![image](https://github.com/Farhanaislam1/HR-Data-Analysis-/assets/165937850/fc20aabf-c107-4841-a5c6-26d6ae337a2d)
 
-Turnover rates based on Marital Status and Gender 
+Turnover rates based on Marital Status and Gender
+
 ![image](https://github.com/Farhanaislam1/HR-Data-Analysis-/assets/165937850/f4e14de6-f0e6-44f3-9646-622b5e299ec9)
 
 Box plot displaying Monthly Income distribution across different department, segmented by Gender, to understand its impact on retention. 
