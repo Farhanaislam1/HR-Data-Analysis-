@@ -1,4 +1,5 @@
 # HR-Data-Analysis
+Please download the tableau file and excel file to check the detailed data analysis
 # Employee Well-being: Mosaic plot representing Job Satisfaction and Environmental Satisfaction across various Job level to estimate employee satisfaction levels. 
 ![image](https://github.com/Farhanaislam1/HR-Data-Analysis-/assets/165937850/c5fd6013-d0ef-4517-8b62-88e9908e210e)
 
