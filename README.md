@@ -17,7 +17,7 @@ This project explores key factors influencing employee retention and well-being 
 
 ## 📁 Files in This Repository
 
-- `Employee_Retention_workbook_Dec12.twbx` – Tableau workbook with interactive dashboards.
+- `Employee_Retention_workbook_Dec12.twbx` – Tableau workbook with interactive visualizations & dashboards.
 - `Employee.xlsx` – Core HR data.
 - `Employee Survey.xlsx` – Survey responses from employees.
 - `Manager Survey.xlsx` – Survey responses from managers.
