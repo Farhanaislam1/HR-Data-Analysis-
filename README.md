@@ -2,7 +2,7 @@
 
 This project explores key factors influencing employee retention and well-being using HR data. The analysis includes visual insights created with Tableau and Excel to uncover patterns in employee satisfaction, turnover, income distribution, and demographic trends.
 
-> 🔽 **Please download the Tableau workbook and the 3 Excel files from the repository** for the full analysis.
+> 🔽 **Please download the Tableau workbook and Excel files from the repository** to explore the full analysis.
 
 ---
 
@@ -17,8 +17,11 @@ This project explores key factors influencing employee retention and well-being 
 
 ## 📁 Files in This Repository
 
-- `HR_Analysis.twbx` – Tableau workbook with interactive dashboards.
-- `HR_Data_1.xlsx`, `HR_Data_2.xlsx`, `HR_Data_3.xlsx` – Raw and cleaned datasets used in the analysis.
+- `Employee_Retention_workbook_Dec12.twbx` – Tableau workbook with interactive dashboards.
+- `Employee.xlsx` – Core HR data.
+- `Employee Survey.xlsx` – Survey responses from employees.
+- `Manager Survey.xlsx` – Survey responses from managers.
+- `Data_Dictionary.xlsx` – Descriptions of variables and data fields.
 - `README.md` – Project overview and visual summary.
 
 ---
@@ -77,11 +80,17 @@ Compares the average age of employees, segmented by gender and department.
 
 ---
 
+## 📑 Data Dictionary
+
+Refer to `Data_Dictionary.xlsx` for detailed descriptions of each field across the datasets, including survey questions, job-level classifications, and performance indicators.
+
+---
+
 ## 🙋‍♀️ About Me
 
-Farhana Islam – Data Analyst with a strong foundation in chemical engineering and a passion for deriving insights from data to solve real-world problems.
+**Farhana Islam** – Data Analyst with a strong foundation in chemical engineering and a passion for deriving insights from data to solve real-world problems.
 
-🔗 [GitHub](https://github.com/Farhanaislam1)  
+🔗 [GitHub Profile](https://github.com/Farhanaislam1)  
 🔗 [LinkedIn](https://www.linkedin.com/in/farhana-islam-261938262)
 
 ---
@@ -89,7 +98,6 @@ Farhana Islam – Data Analyst with a strong foundation in chemical engineering 
 ## 📌 License
 
 This project is for educational and portfolio purposes.
-
 
 
 
